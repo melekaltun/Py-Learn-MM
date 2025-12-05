@@ -1,5 +1,5 @@
-## Solved Problems
+# Solved Problems
 
-Nested_List.py   -> HackerRank-Nested List Solution
+### Nested_List.py   -> HackerRank-Nested List Solution
 
-Find-a-String.py -> HackerRank-Fina a string Solution
+### Find-a-String.py -> HackerRank-Fina a string Solution
